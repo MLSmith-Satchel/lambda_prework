@@ -1,0 +1,6 @@
+
+user/.DS_Store
+league/.DS_Store
+team/__pycache__/rds_config.cpython-38.pyc
+*.pyc
+.DS_Store
